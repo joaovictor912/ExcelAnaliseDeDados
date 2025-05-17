@@ -1,4 +1,4 @@
-# Excel1
+# Excel para análise de dados
 #Data analysis with excel
 STEPS:
   1 - Data cleaning;
